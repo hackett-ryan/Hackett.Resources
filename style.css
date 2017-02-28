@@ -1,6 +1,12 @@
-#myDiv{
+.myDiv{
     border-style: groove;
-    width:33%;
+    width:50%;
     color:blue;
+    float: left;
    
 }
+
+.right{
+    
+    float:right
+} 
