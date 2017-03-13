@@ -9,4 +9,14 @@
 .right{
     
     float:right
-} 
+     
+        .myDiv{
+            border-style: groove;
+            width:50%;
+            color:gold;
+            
+                
+    }
+    
+    
+
